@@ -1,0 +1,22 @@
+.login-page{
+  background-color: color($colors, primary);
+}
+.login-h1{
+  color: color($colors, light);
+  text-align: center;
+  padding-top: 150px;
+  letter-spacing: 5px;
+  font-size: 3.2em;
+}
+.login-form{
+  //background-color: transparent;
+}
+.login-item{
+  background-color: transparent;
+}
+.login-label{
+  color: color($colors, light) !important;
+}
+.login-input{
+  color: color($colors, light) !important;
+}
